@@ -3,6 +3,7 @@
 A clean, Object-Oriented C++ implementation of a Basic Parking Lot system. This project demonstrates core Low-Level Design (LLD) principles, encapsulation, and class relationships.
 
 ## System Architecture & Core Entities
+<img width="471" height="476" alt="image" src="https://github.com/user-attachments/assets/3ff2e424-67b5-4763-bf38-d545ad447e55" />
 
 Based on the system requirements, the architecture is divided into three main entities:
 
